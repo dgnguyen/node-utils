@@ -1,0 +1,26 @@
+Invoicing transfer
+Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.
+Sell book
+Default account
+Default sales account for the EU
+Default sales account for France
+Default sales account for other countries
+Delivery charges account
+Packaging cost account
+Send deposit request account
+Receive deposit request account
+Deposit collected VAT account
+Deposit payment collected VAT account
+Transfer period
+Period
+Daily
+Weekly
+Monthly
+Manual
+Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.
+VAT account
+Select the applicable VAT rate accounts for this folder.
+Select VAT rates by applicable rates on the items in the catalogs.
+Payments transfer
+Authorize payments transfer
+You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.

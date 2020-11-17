@@ -1,0 +1,208 @@
+		[
+				"Invoicing transfer",
+				"Invoicing transfer",
+				"Invoicing transfer",
+				"Invoicing transfer",
+				"Invoicing transfer",
+				"Invoicing transfer"
+			],
+		[
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.",
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.",
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.",
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.",
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents.",
+				"Choose the sales book and the default account to facilitate the invoicing transfer. The configuration of the delivery and packaging accounts simplifies the distinction in the records that will be generated from documents."
+			],
+		[
+				"Sell book",
+				"Sell book",
+				"Sell book",
+				"Sell book",
+				"Sell book",
+				"Sell book"
+			],
+		[
+				"Default account",
+				"Default account",
+				"Default account",
+				"Default account",
+				"Default account",
+				"Default account"
+			],
+		[
+				"Default sales account for the EU",
+				"Default sales account for the EU",
+				"Default sales account for the EU",
+				"Default sales account for the EU",
+				"Default sales account for the EU",
+				"Default sales account for the EU"
+			],
+		[
+				"Default sales account for France",
+				"Default sales account for France",
+				"Default sales account for France",
+				"Default sales account for France",
+				"Default sales account for France",
+				"Default sales account for France"
+			],
+		[
+				"Default sales account for other countries",
+				"Default sales account for other countries",
+				"Default sales account for other countries",
+				"Default sales account for other countries",
+				"Default sales account for other countries",
+				"Default sales account for other countries"
+			],
+		[
+				"Delivery charges account",
+				"Delivery charges account",
+				"Delivery charges account",
+				"Delivery charges account",
+				"Delivery charges account",
+				"Delivery charges account"
+			],
+		[
+				"Packaging cost account",
+				"Packaging cost account",
+				"Packaging cost account",
+				"Packaging cost account",
+				"Packaging cost account",
+				"Packaging cost account"
+			],
+		[
+				"Send deposit request account",
+				"Send deposit request account",
+				"Send deposit request account",
+				"Send deposit request account",
+				"Send deposit request account",
+				"Send deposit request account"
+			],
+		[
+				"Receive deposit request account",
+				"Receive deposit request account",
+				"Receive deposit request account",
+				"Receive deposit request account",
+				"Receive deposit request account",
+				"Receive deposit request account"
+			],
+		[
+				"Deposit collected VAT account",
+				"Deposit collected VAT account",
+				"Deposit collected VAT account",
+				"Deposit collected VAT account",
+				"Deposit collected VAT account",
+				"Deposit collected VAT account"
+			],
+		[
+				"Deposit payment collected VAT account",
+				"Deposit payment collected VAT account",
+				"Deposit payment collected VAT account",
+				"Deposit payment collected VAT account",
+				"Deposit payment collected VAT account",
+				"Deposit payment collected VAT account"
+			],
+		[
+				"Transfer period",
+				"Transfer period",
+				"Transfer period",
+				"Transfer period",
+				"Transfer period",
+				"Transfer period"
+			],
+		[
+				"Period",
+				"Period",
+				"Period",
+				"Period",
+				"Period",
+				"Period"
+			],
+		[
+				"Daily",
+				"Daily",
+				"Daily",
+				"Daily",
+				"Daily",
+				"Daily"
+			],
+		[
+				"Weekly",
+				"Weekly",
+				"Weekly",
+				"Weekly",
+				"Weekly",
+				"Weekly"
+			],
+		[
+				"Monthly",
+				"Monthly",
+				"Monthly",
+				"Monthly",
+				"Monthly",
+				"Monthly"
+			],
+		[
+				"Manual",
+				"Manual",
+				"Manual",
+				"Manual",
+				"Manual",
+				"Manual"
+			],
+		[
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.",
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.",
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.",
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.",
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand.",
+				"Determine the most suitable transfer frequency for activity. If selected period Manual, the transfer tab permit to transfer the entries on demand."
+			],
+		[
+				"VAT account",
+				"VAT account",
+				"VAT account",
+				"VAT account",
+				"VAT account",
+				"VAT account"
+			],
+		[
+				"Select the applicable VAT rate accounts for this folder.",
+				"Select the applicable VAT rate accounts for this folder.",
+				"Select the applicable VAT rate accounts for this folder.",
+				"Select the applicable VAT rate accounts for this folder.",
+				"Select the applicable VAT rate accounts for this folder.",
+				"Select the applicable VAT rate accounts for this folder."
+			],
+		[
+				"Select VAT rates by applicable rates on the items in the catalogs.",
+				"Select VAT rates by applicable rates on the items in the catalogs.",
+				"Select VAT rates by applicable rates on the items in the catalogs.",
+				"Select VAT rates by applicable rates on the items in the catalogs.",
+				"Select VAT rates by applicable rates on the items in the catalogs.",
+				"Select VAT rates by applicable rates on the items in the catalogs."
+			],
+		[
+				"Payments transfer",
+				"Payments transfer",
+				"Payments transfer",
+				"Payments transfer",
+				"Payments transfer",
+				"Payments transfer"
+			],
+		[
+				"Authorize payments transfer",
+				"Authorize payments transfer",
+				"Authorize payments transfer",
+				"Authorize payments transfer",
+				"Authorize payments transfer",
+				"Authorize payments transfer"
+			],
+		[
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.",
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.",
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.",
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.",
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account.",
+				"You can transfer the payments recorded in accounting. To do this, activate the transfer payments and choose the bank journal and counterpart account."
+			],
